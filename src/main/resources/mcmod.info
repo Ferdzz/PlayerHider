@@ -1,0 +1,16 @@
+[
+{
+  "modid": "playerhider",
+  "name": "Player Hider",
+  "description": "Hides player rendering",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ferdz"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
